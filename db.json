@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "saroj@gmail.com",
+      "name": "Saroj",
+      "address": "delhi",
+      "accountno": 12345678900,
+      "mobile": 9012345678,
+      "password": "Saroj@1234",
+      "confirmpassword": "Saroj@1234",
+      "id": 1
+    },
+    {
+      "username": "vasu@gmail.com",
+      "name": "Vasu",
+      "address": "Delhi",
+      "acnumber": "99887788881",
+      "phoneno": "9988776655",
+      "password": "Vasu@1234",
+      "confirmpassword": "Vasu@1234",
+      "id": 2
+    }
+  ],
+  "applicants": [
+    {
+      "email": "saroj@gmail.com",
+      "income": "251000",
+      "vehicleprice": "7000000",
+      "loanamount": 6500000,
+      "term": "4yrs",
+      "age": "23",
+      "emptype": "self employed",
+      "pan": "BVAPK0022Q",
+      "id": 1
+    },
+    {
+      "email": "vermavq@gmail.com",
+      "income": "800000",
+      "vehicleprice": "400000",
+      "loanamount": 300000,
+      "term": "5",
+      "age": "22",
+      "emptype": "Salaried",
+      "pan": "AKLBB5220A",
+      "id": 2
+    }
+  ]
+}
