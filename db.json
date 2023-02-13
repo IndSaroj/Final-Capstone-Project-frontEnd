@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "email": "saroj@gmail.com",
+      "name": "Saroj",
+      "address": "delhi",
+      "accountno": 12345678900,
+      "mobile": 9012345678,
+      "password": "Saroj@1234",
+      "confirmpassword": "Saroj@1234",
+      "id": 1
+    },
+    {
+      "email": "Sandhya@gmail.com",
+      "name": "Sandhya",
+      "address": "delhi",
+      "accountno": 12345678909,
+      "mobile": 9876543256,
+      "password": "Sandhya@1234",
+      "confirmpassword": "Sandya@123",
+      "id": 2
+    },
+    {
+      "email": "Amit@gmail.com",
+      "name": "Amit",
+      "address": "Ranchi",
+      "accountno": "12345679800",
+      "mobile": 9876543256,
+      "password": "Amit@123",
+      "confirmpassword": "Amit@123",
+      "id": 3
+    }
+  ],
+  "applicants": [
+    {
+      "id": 1
+    },
+    {
+      "email": "Navin@gmail.com",
+      "income": "Navin",
+      "vehicleprice": "30000000",
+      "loanamount": 25000000,
+      "term": "5",
+      "age": "21",
+      "emptype": "self employed",
+      "pan": "BVAPK0022Q",
+      "id": 2
+    },
+    {
+      "email": "Amit@gmail.com",
+      "income": "1000000",
+      "vehicleprice": "700000",
+      "loanamount": 600000,
+      "term": "5",
+      "age": "21",
+      "emptype": "Employed",
+      "pan": "BVAPK0022Q",
+      "id": 3
+    },
+    {
+      "email": "Shristi@gmail.com",
+      "income": "1000000",
+      "vehicleprice": "700000",
+      "loanamount": 600000,
+      "term": "5",
+      "age": "23",
+      "emptype": "self employed",
+      "pan": "BVAPK0022Q",
+      "id": 4
+    },
+    {
+      "email": "Lalit@gmail.com",
+      "income": "1000000",
+      "vehicleprice": "700000",
+      "loanamount": 599999,
+      "term": "6",
+      "age": "23",
+      "emptype": "self employed",
+      "pan": "BVAPK0022Q",
+      "id": 5
+    }
+  ]
+}
